@@ -2357,7 +2357,6 @@ repositories:
       tags:
         release: release/eloquent/{package}/{version}
       url: https://github.com/nuclearsandwich-ros/variants-release.git
-      version: 0.8.3-2
     source:
       test_pull_requests: true
       type: git
@@ -2392,7 +2391,6 @@ repositories:
       tags:
         release: release/eloquent/{package}/{version}
       url: https://github.com/nuclearsandwich-ros/xacro-release.git
-      version: 2.0.1-2
     source:
       test_pull_requests: true
       type: git
