@@ -3,18 +3,18 @@
 # see REP 153: http://ros.org/reps/rep-0153.html
 ---
 distributions:
-  #humble:
-  #  distribution: [humble/distribution.yaml]
-  #  distribution_cache: file:///dev/null
-  #  distribution_status: active
-  #  distribution_type: ros2
-  #  python_version: 3
-  #jazzy:
-  #  distribution: [jazzy/distribution.yaml]
-  #  distribution_cache: file:///dev/null
-  #  distribution_status: active
-  #  distribution_type: ros2
-  #  python_version: 3
+  humble:
+    distribution: [humble/distribution.yaml]
+    distribution_cache: file:///dev/null
+    distribution_status: active
+    distribution_type: ros2
+    python_version: 3
+  jazzy:
+    distribution: [jazzy/distribution.yaml]
+    distribution_cache: file:///dev/null
+    distribution_status: active
+    distribution_type: ros2
+    python_version: 3
   rolling:
     distribution: [rolling/distribution.yaml]
     distribution_cache: file:///dev/null
