@@ -6,7 +6,7 @@ release_platforms:
   rhel:
   - '8'
   ubuntu:
-  - jammy
+  - noble
 repositories:
   ament_cmake:
     doc:
